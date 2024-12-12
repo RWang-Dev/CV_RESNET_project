@@ -1,0 +1,8 @@
+venv
+data
+backup
+__pycache__
+backup.py
+*.pth
+main.py
+outputs/
